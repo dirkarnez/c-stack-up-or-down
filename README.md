@@ -4,6 +4,7 @@ c-stack-up-or-down
 
 ### TODOs
 - [ ] write a report of different os / arch
+  - see [dirkarnez/sizeof-viewer](https://github.com/dirkarnez/sizeof-viewer)
 - [ ] Embedded support (printf)
   - Arduino
   - STM32
